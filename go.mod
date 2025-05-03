@@ -1,4 +1,4 @@
-module sso
+module github.com/venetc/shared-protos
 
 go 1.24.2
 
