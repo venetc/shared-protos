@@ -1,4 +1,4 @@
-module github.com/venetc/shared-protos
+module shared-protos
 
 go 1.24.2
 
